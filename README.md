@@ -348,3 +348,4 @@ This is the **optimal** solution — it is mathematically impossible to solve th
 ---
 
 *Project written in C using GTK3 and Cairo for the graphical interface.*
+
